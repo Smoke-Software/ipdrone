@@ -31,7 +31,7 @@
 * `pkg install git -y`
 * `pip install lolcat`
 * `pip install requests`
-* `git clone https://github.com/smoke_software/ipdrone`
+* `git clone https://github.com/smoke-software/ipdrone`
 * `cd $HOME`
 * `ls`
 * `cd ipdrone`
