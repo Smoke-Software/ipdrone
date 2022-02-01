@@ -37,7 +37,7 @@
 * `cd ipdrone`
 * `ls`
 * `python ipdrone.py`
-``
+
 
 Вводим айпи адрес который нужно пробить
 PROFIT!
