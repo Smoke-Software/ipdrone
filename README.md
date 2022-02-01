@@ -38,7 +38,7 @@
 * `ls`
 * `python ipdrone.py`
 
-
+Вводим пароль `https://t.me/smoke_software`
 Вводим айпи адрес который нужно пробить
 PROFIT!
 
