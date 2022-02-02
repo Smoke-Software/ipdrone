@@ -1,6 +1,6 @@
 ## Об утилите:
 Перевел утилиту https://t.me/lamer112311 для канала https://t.me/smoke_software
-
+Original script https://github.com/noob-hackers/ipdrone
 Пароль к утилите: https://t.me/smoke_software
 
 **Ipdrone** — это простой скрипт на Python, который можно использовать для поиска IP-адресов и получения информации о конкретном целевом IP-адресе. Этот инструмент работает как на устройстве Android с root-правами, так и на устройстве Android без root.
